@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio 1</string>
+    <string name="restaurant_name">Restaurante La Bendición</string>
+    <string name="button">Button</string>
+    <string name="restaurant_logo">Restaurant Logo</string>
+    <string name="home">Inicio</string>
+    <string name="clear">Limpiar Pedido</string>
+    <string name="do_order">Hacer Pedido</string>
+    <string name="show_order">Mostrar Pedido</string>
+    <string name="show_menu">Mostrar Menu</string>
+</resources>

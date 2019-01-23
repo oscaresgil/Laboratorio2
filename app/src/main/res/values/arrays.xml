@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menuList">
+        <item>Pollo Frito</item>
+        <item>Hamburguesa</item>
+        <item>Gaseosa</item>
+        <item>Quesoburguesa</item>
+        <item>Helado</item>
+    </string-array>
+</resources>
